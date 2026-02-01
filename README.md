@@ -69,16 +69,17 @@ int main(void)
 
 ```
 .
-├── ft_printf.c          # Main function implementation
-├── ft_printf.h          # Header file
-├── ft_print_char.c      # Character printing
-├── ft_print_string.c    # String printing
-├── ft_print_decimal.c   # Signed integer printing
-├── ft_print_unsigned.c  # Unsigned integer printing
-├── ft_print_pointer.c   # Pointer printing
-├── ft_putnbr_hex.c      # Hexadecimal printing
-├── ft_strlen.c          # String length utility
-└── Makefile             # Build configuration
+├── ft_printf.c
+├── ft_printf.h
+├── ft_print_char.c
+├── ft_print_string.c
+├── ft_print_decimal.c
+├── ft_print_unsigned.c
+├── ft_print_pointer.c
+├── ft_putnbr_hex.c
+├── ft_strlen.c
+└── Makefile
+└── README.md
 ```
 
 ## Author
