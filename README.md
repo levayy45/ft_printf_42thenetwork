@@ -88,4 +88,4 @@ int main(void)
 
 ## License
 
-This project is part of the 42 Network curriculum.
+This project is part of the 42 Network curriculum
